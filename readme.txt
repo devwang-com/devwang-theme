@@ -1,21 +1,24 @@
-ChromeÖ÷Ìâdiy
+Chromeä¸»é¢˜diy
 
-ÎÄ¼şÁĞ±í£º
-/images/tb.png ¹¤¾ßÀ¸Í¼Æ¬
-/images/bg.jpg ±³¾°Í¼Æ¬
-manifest.json  ±ØÒªÎÄ¼ş
-readme.txt     ±Ø¶ÁÎÄ¼ş
-result.png     Ğ§¹û½ØÍ¼
-devwang-theme.crx ´ò°ü³ÉµÄcrxÎÄ¼ş£¬¿ÉÒÔÖ±½ÓÊ¹ÓÃ
+æ–‡ä»¶åˆ—è¡¨ï¼š
+/images/tb.png å·¥å…·æ å›¾ç‰‡
+/images/bg.jpg èƒŒæ™¯å›¾ç‰‡
+manifest.json  å¿…è¦æ–‡ä»¶
+readme.txt     å¿…è¯»æ–‡ä»¶
+result.png     æ•ˆæœæˆªå›¾
+devwang-theme.crx æ‰“åŒ…æˆçš„crxæ–‡ä»¶ï¼Œå¯ä»¥ç›´æ¥ä½¿ç”¨
 
-crxÎÄ¼şÊ¹ÓÃ·½·¨£º
-´ò¿ªchromeä¯ÀÀÆ÷£¬ÊäÈëchrome://extensions/£¬½«devwang-theme.crxÍÏ¶¯µ½ä¯ÀÀÆ÷¼´¿É
+crxæ–‡ä»¶ä½¿ç”¨æ–¹æ³•ï¼š
+æ‰“å¼€chromeæµè§ˆå™¨ï¼Œè¾“å…¥chrome://extensions/ï¼Œå°†devwang-theme.crxæ‹–åŠ¨åˆ°æµè§ˆå™¨å³å¯
 
-Ö÷ÒªÎÄ¼şÁ½¸ö£º
+ä¸»è¦æ–‡ä»¶ä¸¤ä¸ªï¼š
 images/
 manifest.json
 
+æºç ï¼š
+https://github.com/devwang-com/devwang-theme
+
 autor:http://www.devwang.com
 email:devwang.com@gmail.com
-QQÈº£º214710126
+QQç¾¤ï¼š214710126
 2016-04-26
