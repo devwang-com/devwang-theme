@@ -1,0 +1,33 @@
+﻿{
+   "description": "devwang-theme【email：devwang.com@gmail.com】",
+   "manifest_version": 2,
+   "name": "devwang-theme",
+   "short_name": "devwang",
+   "theme": {
+      "colors": {
+         "bookmark_text": [0, 0, 0],
+         "frame": [71, 105, 91],
+         "ntp_background": [255, 255, 255],
+         "ntp_link": [36, 70, 0],
+         "ntp_section_link": [207, 221, 192],
+         "ntp_section_text": [207, 221, 192],
+         "ntp_text": [20, 40, 0],
+         "tab_background_text": [ 102, 102, 102],
+         "tab_text": [0, 0, 0],
+         "toolbar": [207, 221, 192]
+      },
+      "images": {
+         "theme_ntp_background": "images/bg.jpg",
+         "theme_toolbar": "images/tb.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center center",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "background_tab": [ 0, 0, 0 ],
+         "buttons": [0.33, 0.5, 0.47 ]
+      }
+   },
+   "version": "1.0.0"
+}
